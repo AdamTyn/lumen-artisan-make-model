@@ -6,6 +6,6 @@
 ```  
 
 protected $commands = [
-	\AdamTyn\Lumen\Artisan::class
+	\AdamTyn\Lumen\Artisan\ModelMakeCommand::class
 ];
 ```
