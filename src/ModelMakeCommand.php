@@ -20,7 +20,7 @@ class ModelMakeCommand extends GeneratorCommand
      *
      * @var string
      */
-    protected $description = 'Create a new Eloquent model class';
+    protected $description = '新建一个 Eloquent 模型类';
 
     /**
      * The type of class being generated.

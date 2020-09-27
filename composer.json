@@ -1,6 +1,12 @@
 {
     "name": "adamtyn/lumen-artisan-make-model",
     "description": "移植Laravel的 `php artisan make:model` [快速创建模型] 指令到Lumen",
+    "keywords": [
+        "framework",
+        "laravel",
+        "lumen",
+        "adamtyn"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
